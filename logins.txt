@@ -1,0 +1,15 @@
+wordpress-1
+db - worppress-1
+dbuser - root
+dbpassword - " "
+table Prefix wp1_
+sitename - worpress 2019
+siteuser - root1
+sitepassword - devWorpress2022
+email - jacknovak009@gmail.com
+
+wordpress-2
+db - worppress-2
+user - root2
+password - devWorpress
+table Prefix wp2_
